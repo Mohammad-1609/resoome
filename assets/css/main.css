@@ -1491,6 +1491,9 @@ body.darkmode a.btn-default {
         width: 334px !important;
         margin-right: unset !important;
     }
+    .hero-inner .col-right .image-darkmode {
+        display: none !important;
+    }
 
 }
 
