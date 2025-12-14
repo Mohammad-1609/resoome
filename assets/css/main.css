@@ -1487,7 +1487,7 @@ body.darkmode a.btn-default {
 
 @media screen and (max-width:384px) {
     .col-right img.image-main {
-        /* display: none !important; */
+        display: none !important;
         width: 334px !important;
         margin-right: unset !important;
     }
